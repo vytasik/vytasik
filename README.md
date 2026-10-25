@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Dark violet developer banner: Engineering systems that scale" width="100%" />
   <p><strong>Backend engineer · Systems programming · Networking</strong></p>
   <p>Building practical infrastructure, developer tooling and network software.</p>
   <p>
